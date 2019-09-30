@@ -1,12 +1,15 @@
 #define WIDTH 400
 #define HEIGHT 50
 #define BORDER_OFFSET 4
-#define BORDER_SIZE 4
+// #define BORDER_SIZE 4
+#define BORDER_SIZE 0
 #define TIMEOUT_SECONDS 1
 
-#define BLACK 0xFF000000
+//#define BLACK 0xFF000000
+#define BLACK 0xFF333333
 // #define BLACK 0xFFFFFFFF
-#define WHITE 0xFFFFFFFF
+//#define WHITE 0xFFFFFFFF
+#define WHITE 0xFF94EBEB
 // #define WHITE 0xFFFF0000
 
 #define STRIDE WIDTH * 4
