@@ -4,7 +4,7 @@
 #define BORDER_SIZE 0
 #define TIMEOUT_SECONDS 1
 
-#define BLACK 0xFF333333
+#define BLACK 0xFF272727
 #define WHITE 0xFF94EBEB
 
 #define STRIDE WIDTH * 4
